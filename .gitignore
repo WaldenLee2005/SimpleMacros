@@ -1,0 +1,10 @@
+__pycache__/ 
+*.pyc
+*.pyo
+*.spec
+dist/
+build/
+*.exe
+*.log
+venv/
+macros/*.json
