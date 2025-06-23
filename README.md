@@ -19,7 +19,7 @@ A simple Python desktop macro recorder with hotkey activation, GUI management, a
 
 Install dependencies:
 
-```bash pip install -r requirements.txt```
+`pip install -r requirements.txt`
 
 ## Run App
 `python SimpleMacros.py`
