@@ -19,14 +19,13 @@ A simple Python desktop macro recorder with hotkey activation, GUI management, a
 
 Install dependencies:
 
-```bash
-pip install -r requirements.txt
+```bash pip install -r requirements.txt```
 
 ## Run App
-python SimpleMacros.py
+`python SimpleMacros.py`
 
 ## Build to EXE
-pyinstaller --onefile --windowed SimpleMacros.py
+`pyinstaller --onefile --windowed SimpleMacros.py`
 
 ## License
 This project is licensed under the MIT License. See the LICENSE.MD file for details.
